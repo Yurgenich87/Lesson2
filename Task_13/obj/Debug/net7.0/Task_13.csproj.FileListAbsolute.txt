@@ -1,0 +1,15 @@
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/obj/Debug/net7.0/Task_13.csproj.AssemblyReference.cache
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/obj/Debug/net7.0/Task_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/obj/Debug/net7.0/Task_13.AssemblyInfoInputs.cache
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/obj/Debug/net7.0/Task_13.AssemblyInfo.cs
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/obj/Debug/net7.0/Task_13.csproj.CoreCompileInputs.cache
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/bin/Debug/net7.0/Task_13
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/bin/Debug/net7.0/Task_13.deps.json
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/bin/Debug/net7.0/Task_13.runtimeconfig.json
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/bin/Debug/net7.0/Task_13.dll
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/bin/Debug/net7.0/Task_13.pdb
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/obj/Debug/net7.0/Task_13.dll
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/obj/Debug/net7.0/refint/Task_13.dll
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/obj/Debug/net7.0/Task_13.pdb
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/obj/Debug/net7.0/Task_13.genruntimeconfig.cache
+/Users/yurakarbushev/Desktop/Учебв Gigbrains/Знакомство с С# семинары/Lesson2/Task_13/obj/Debug/net7.0/ref/Task_13.dll
